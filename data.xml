@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <mahasiswa>
+        <NIM>2021001</NIM>
+        <NAMA>Fikri Rijal</NAMA>
+        <Fakultas>FIKOM</Fakultas>
+        <Prodi>Marketing</Prodi>
+        <Gender>Laki-laki</Gender>
+        <Alamat>DKI Jakarta</Alamat>
+    </mahasiswa>
+    
+    <mahasiswa>    
+        <NIM>2021002</NIM>
+        <NAMA>Irfan Hakim</NAMA>
+        <Fakultas>FASILKOM</Fakultas>
+        <Prodi>Informatika</Prodi>
+        <Gender>Laki-laki</Gender>
+        <Alamat>Bandung</Alamat>
+    </mahasiswa>
+    
+    <mahasiswa>
+        <NIM>2021003</NIM>
+        <NAMA>Intan</NAMA>
+        <Fakultas>FH</Fakultas>
+        <Prodi>Hukum Pidana</Prodi>
+        <Gender>Perempuan</Gender>
+        <Alamat>Makasar</Alamat>
+    </mahasiswa>
+    
+    <mahasiswa>
+        <NIM>2021004</NIM>
+        <NAMA>Funy</NAMA>
+        <Fakultas>FE</Fakultas>
+        <Prodi>Manajemen</Prodi>
+        <Gender>Perempuan</Gender>
+        <Alamat>Surabaya</Alamat>
+    </mahasiswa>
+
+</xml>
